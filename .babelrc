@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        [
+            "import",
+            {
+                "libraryName": "office-ui-fabric-react",
+                "styles": true
+            }
+        ]
+    ]
+}
