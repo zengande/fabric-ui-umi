@@ -1,2 +1,2 @@
 # fabric-ui-umi
-umi.js and office fabric react app.
+umi.js and Office UI Fabric React app.
